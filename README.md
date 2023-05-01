@@ -36,7 +36,7 @@ MAX38890 offers 5V 5A backup power with a single Cap:
 Most powerful design LTC3350 5V 4A (30W) In addition, the step-down converter can run in reverse asa step-up converter to deliver power from the supercapacitor stack to the backup supply rail:
 ![LTC3350](https://user-images.githubusercontent.com/75634636/235479535-19fbea09-8caf-47f5-ac48-4ab1d6b73906.jpg)
 
-Usefull info for super capacitor calculation:
+Usefull info for super capacitor calculation from max38890.pdf:
 ![formula](https://user-images.githubusercontent.com/75634636/235483289-b0bff889-c889-4e6b-a2d1-2aa6396d9d01.jpg)
 
 ## Contributing
