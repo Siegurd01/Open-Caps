@@ -20,6 +20,7 @@ Open Caps UPS should include the following features:
 :black_square_button: Choosing a buck-bust DC-DC converter if needed;    
 :black_square_button: Designing and build the UPS circuit using the chosen charger IC and other necessary components, such as capacitors, resistors, and diodes. A schematic and PCB layout can be found in the "design" directory of this repository;    
 :black_square_button: Chooseing a communication interface to use between the UPS and SBC, such as GPIO, I2C, or UART;    
+:black_square_button: Implementing HID Power Device (NUC) option for native support in Linux (apt-get install nut) and Windows;    
 :black_square_button: Implementing the necessary software communication protocol between the UPS and SBC;    
 :black_square_button: Testing first design UPS with cosciloscope and load;    
 :black_square_button: Making necessery changes to the design... and connecting the UPS to SBC and test the safe shutdown and power-on functionality using the chosen communication interface.    
