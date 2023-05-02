@@ -11,7 +11,7 @@ Open Caps UPS should include the following features:
 - Input voltage range of 5-24V;
 - Output voltage of 5V;
 - Output current capacity of 3A-10A, depending on the specific charger IC used;
-- Communication with SBC via GPIO, I2C, or UART interface for safe shutdown and power-on functionality;
+- Communication with SBC via GPIO, I2C, UART or USB (NUC) interface for safe shutdown and power-on functionality;
 - LED indicators for UPS working modes illustration (charging, full, discharging, input power present, input power lost);
 - Optional STM32 MCU for UPS control and/or SBC communication;
 
