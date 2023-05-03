@@ -40,6 +40,9 @@ Most powerful design LTC3350 5V 4A (30W) In addition, the step-down converter ca
 Usefull info for super capacitor calculation from max38890.pdf:
 ![formula](https://user-images.githubusercontent.com/75634636/235483289-b0bff889-c889-4e6b-a2d1-2aa6396d9d01.jpg)
 
+03.05.2023 - max38890 gives only 1338.8mA at 5.4V Backup so it doesn't fit in our needs:
+![MAX38890_low_amps](https://user-images.githubusercontent.com/75634636/236048422-dc58f832-f026-4044-9301-286bcfdbf364.jpg)
+
 ## Contributing
 Contributions to the Open Caps project are welcome! If you would like to contribute, please fork this repository, make your changes, and submit a pull request.
 
