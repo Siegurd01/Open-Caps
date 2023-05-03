@@ -43,6 +43,9 @@ Usefull info for super capacitor calculation from max38890.pdf:
 03.05.2023 - max38890 gives only 1338.8mA at 5.4V Backup so it doesn't fit in our needs:
 ![MAX38890_low_amps](https://user-images.githubusercontent.com/75634636/236048422-dc58f832-f026-4044-9301-286bcfdbf364.jpg)
 
+LTC3350 backup time calculations for 5V in and 5V 4A out (2x60F) (promising):
+![LTC3350_calc](https://user-images.githubusercontent.com/75634636/236059969-d21ee480-e3f2-4c5c-be05-36d423e985dc.jpg)
+
 ## Contributing
 Contributions to the Open Caps project are welcome! If you would like to contribute, please fork this repository, make your changes, and submit a pull request.
 
